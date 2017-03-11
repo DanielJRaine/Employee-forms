@@ -1,5 +1,5 @@
 {
-  "name": "ga-wdi-boston.ember-template",
+  "name": "employee-forms",
   "dependencies": {
     "ember": "~2.10.2",
     "ember-cli-shims": "0.1.3",
